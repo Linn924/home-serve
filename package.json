@@ -1,0 +1,24 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-router": "^10.0.0",
+    "koa-static-cache": "^5.1.4",
+    "koa2-cors": "^2.0.6",
+    "md5": "^2.3.0",
+    "mime-types": "^2.1.27",
+    "nodemon": "^2.0.6",
+    "promise-mysql2": "^1.0.0"
+  }
+}
